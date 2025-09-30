@@ -8,11 +8,15 @@ Repositorio para armazenar resumos sobre Git e GitHub do curso Versionamento de 
 
 \## 📄 Documentação
 
--\[Documentação Git](https://git-scm.com/doc)
+
+
+\- \[Documentação Git](https://git-scm.com/doc)
 
 
 
--\[Documentação GitHub](https://docs.github.com/)
+\- \[Documentação GitHub](https://docs.github.com/)
+
+
 
 
 
